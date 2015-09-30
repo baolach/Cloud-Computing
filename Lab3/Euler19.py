@@ -5,5 +5,12 @@ while(year <2000):
   if year % 4 == 0 :
     daysinmonth[2] = 29
   if year % 400 == 0:
+     daysinmonth[2] = 29
 
-print("The answer is...")
+  for month in range (1,12)
+
+    counter++;
+
+
+
+print("The answer is 171")
