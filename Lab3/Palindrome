@@ -1,6 +1,9 @@
-str = raw_input('Enter a string')
-for str[i] == str[i+1]
-  i++
-  if str
+str = raw_input('Enter a string\n')
+true = 0
+len = len(str)
+while len > -1:
+  if( str[len] == str[len-1]
+    print('Not a Palindrome')
+
 
 
